@@ -1,0 +1,45 @@
+2020-08-10 11:07:17,719 INFO  [log] sunilemail@gmail.com
+2020-08-10 11:07:17,729 INFO  [log] Sunil
+2020-08-10 11:07:17,731 INFO  [log] Last
+2020-08-10 11:07:33,416 INFO  [log] Status: FINISHED, time taken for TestCase was: 15569 ms
+2020-08-10 11:07:33,435 INFO  [log] Number of test steps which ran: 7
+2020-08-10 11:07:33,439 INFO  [log] dusiantemail@gmail.com
+2020-08-10 11:07:33,440 INFO  [log] Dusiant
+2020-08-10 11:07:33,440 INFO  [log] Last
+2020-08-10 11:07:56,006 INFO  [log] Status: FINISHED, time taken for TestCase was: 22518 ms
+2020-08-10 11:07:56,006 INFO  [log] Number of test steps which ran: 7
+2020-08-10 11:07:56,007 INFO  [log] kamalemail@gmail.com
+2020-08-10 11:07:56,007 INFO  [log] Kamal
+2020-08-10 11:07:56,010 INFO  [log] Last
+2020-08-10 11:08:16,999 INFO  [log] Status: FINISHED, time taken for TestCase was: 20943 ms
+2020-08-10 11:08:16,999 INFO  [log] Number of test steps which ran: 7
+2020-08-10 11:08:17,345 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMER.EMAIL>sunilbhatra101@gmail.com</CUSTOMER.EMAIL>
+            <CUSTOMER.FIRSTNAME>sunil</CUSTOMER.FIRSTNAME>
+            <CUSTOMER.LASTNAME>bhatra</CUSTOMER.LASTNAME>
+        </Row>
+        <Row rowNumber="2">
+            <CUSTOMER.EMAIL>sunilbhardwaj101@gmail.com</CUSTOMER.EMAIL>
+            <CUSTOMER.FIRSTNAME>sunil</CUSTOMER.FIRSTNAME>
+            <CUSTOMER.LASTNAME>bhatra</CUSTOMER.LASTNAME>
+        </Row>
+        <Row rowNumber="3">
+            <CUSTOMER.EMAIL>sbhardwaj101@gmail.com</CUSTOMER.EMAIL>
+            <CUSTOMER.FIRSTNAME>sunil</CUSTOMER.FIRSTNAME>
+            <CUSTOMER.LASTNAME>bhardwaj</CUSTOMER.LASTNAME>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-10 11:08:17,427 INFO  [log] 3
+2020-08-10 11:08:17,438 INFO  [log]  Email: sunilbhatra101@gmail.com
+2020-08-10 11:08:17,440 INFO  [log]  User Name: sunil
+2020-08-10 11:08:17,440 INFO  [log]  Last Name: bhatra
+2020-08-10 11:08:17,458 INFO  [log]  Email: sunilbhardwaj101@gmail.com
+2020-08-10 11:08:17,459 INFO  [log]  User Name: sunil
+2020-08-10 11:08:17,461 INFO  [log]  Last Name: bhatra
+2020-08-10 11:08:17,469 INFO  [log]  Email: sbhardwaj101@gmail.com
+2020-08-10 11:08:17,469 INFO  [log]  User Name: sunil
+2020-08-10 11:08:17,472 INFO  [log]  Last Name: bhardwaj
